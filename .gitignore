@@ -1,0 +1,14 @@
+# Ignoruj środowisko
+venv/
+__pycache__/
+
+# Ignoruj pliki IDE
+.idea/
+
+# Pliki tymczasowe
+*.pyc
+*.log
+
+# Ignoruj kontenery Docker
+*.pid
+*.tar
